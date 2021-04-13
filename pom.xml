@@ -5,14 +5,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>fr.darkbow_</groupId>
-    <artifactId>HeadDrops</artifactId>
+    <artifactId>SamplePlugin</artifactId>
     <version>1.0</version>
 
     <repositories>
-        <repository>
-            <id>dmulloy2-repo</id>
-            <url>https://repo.dmulloy2.net/repository/public/</url>
-        </repository>
         <!-- And so on -->
     </repositories>
 
